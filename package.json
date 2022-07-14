@@ -1,0 +1,14 @@
+{
+    "name": "536a155256eb459b8700077e",
+    "type": "module",
+    "scripts": {
+        "spiral": "node ./output.js --spiral",
+        "output": "node ./output.js",
+        "test": "mocha ./test.js"
+    },
+    "dependencies": {
+        "chai": "^4.3.6",
+        "chalk": "^5.0.1",
+        "mocha": "^10.0.0"
+    }
+}
